@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automating-file-organization",
+      "title": "Automating File Organization with Python",
+      "description": "Automate file organization with pathlib, functions, and safe file operations",
+      "path": "assignments/automating-file-organization",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
